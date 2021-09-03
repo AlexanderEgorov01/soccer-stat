@@ -1,0 +1,24 @@
+.header-icon {
+    width: 1.5em;
+    height: 1.5em;
+    content: "";
+    background: no-repeat center center;
+    background-size: 100% 100%;
+    margin-top: 0.4rem;
+}
+
+.navbar-brand {
+    display: inline-block;
+    font-size: 1.5rem;
+    line-height: inherit;
+    white-space: nowrap;
+    text-transform: none;
+    padding-top: inherit;
+    padding-bottom: inherit;
+    margin-right: inherit;
+}
+
+.header-tabs {
+    margin-top: 0.43rem !important;
+}
+
